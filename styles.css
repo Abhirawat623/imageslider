@@ -56,5 +56,17 @@ transform: scale(1.1);
     left:2%;
 }
 
+aquery only screen (max width:720px)
+
+
+@media screen and (min-width: 720px) {
+  body {
+    
+    max-width: 150px;
+  }
+}
+
+
+
 
 
